@@ -1,5 +1,4 @@
-# Coding Challenge
-## Week 1 - Catch em' Cards
+# Coding Challenge - Week 1 - Catch em' Cards
 
 * HTML
 * CSS
